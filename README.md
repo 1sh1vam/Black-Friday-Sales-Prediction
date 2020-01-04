@@ -1,6 +1,6 @@
 # Black-Friday-Sales-Prediction
 There is an E-commerce Company that wants to know how much a customer will spend on Black Friday Sale. 
-We have different customer IDs and Product IDs representing the different customers and products. There is three product category variables representing many categories of products.
+We have different customer IDs and Product IDs representing the different customers and products. There are three product category variables representing many categories of products.
 
 Variable	                    Definition
 
